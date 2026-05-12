@@ -42,5 +42,5 @@ python test.py
 - CUDA (Tesla T4 via Google Colab)
 - Random seed: 0
 
-- ## Model Weights
+## Model Weights
 Download best.pt here: [Google Drive Link]( https://drive.google.com/file/d/1ilBgbwOOp6Wk-FoL6unr0DrcIotqDIOz/view?usp=drive_link )
