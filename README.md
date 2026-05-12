@@ -44,3 +44,8 @@ python test.py
 
 ## Model Weights
 Download best.pt here: [Google Drive Link]( https://drive.google.com/file/d/1ilBgbwOOp6Wk-FoL6unr0DrcIotqDIOz/view?usp=drive_link )
+
+
+**Conclusion**
+
+This project successfully improved upon the baseline YOLOv8n seat detection system by implementing two distinct enhancement strategies: a model architecture upgrade (YOLOv8n → YOLOv8m) and an improved dataset splitting methodology (person‑specific → generalised 80/20 stratified split).
