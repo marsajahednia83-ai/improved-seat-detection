@@ -33,7 +33,7 @@ python test.py
 ## Results
 | Model | Precision | Recall | mAP@0.5 |
 |-------|-----------|--------|---------|
-| YOLOv8n (Baseline) | 0.95 | 0.808 | 0.971 |
+| YOLOv8n (Baseline) | 0.940 | 0.887 | 0.971 |
 | YOLOv8m (Improved) | 0.889 | 0.807 | 0.875 |
 
 ## Environment
